@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad9d2b7-996f-402f-8615-00e5fea6a653" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WholeSaleAgency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -40,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Agency">
+  <component name="RunManager" selected="Application.Electricity">
     <configuration name="Agency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Agency" />
       <module name="supraja0" />
@@ -50,6 +52,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Electricity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity" />
+      <module name="supraja0" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,8 +83,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WholeSale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WholeSale" />
+      <module name="supraja0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Electricity" />
+        <item itemvalue="Application.WholeSale" />
         <item itemvalue="Application.Agency" />
         <item itemvalue="Application.Months" />
         <item itemvalue="Application.Month" />
@@ -98,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669367139544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1669569759455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669569759455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
