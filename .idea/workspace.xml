@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Electricity">
+  <component name="RunManager" selected="Application.ElectricityBill">
     <configuration name="Agency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Agency" />
       <module name="supraja0" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Electricity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Electricity" />
+    <configuration name="ElectricityBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElectricityBill" />
       <module name="supraja0" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,7 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Electricity" />
+        <item itemvalue="Application.ElectricityBill" />
         <item itemvalue="Application.WholeSale" />
         <item itemvalue="Application.Agency" />
         <item itemvalue="Application.Months" />
