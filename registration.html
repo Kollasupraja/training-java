@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="register.js">
+    <style>
+        body{
+            background-image:  url("pictures/bg3.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-blend-mode: soft-light;
+        }
+    </style>
+</head>
+<body align="center">
+    <h1>Registration Page</h1><b>
+    <form>
+        <label for="username">*username:-</label>
+        <input type="alpha" id="name" name="username" placeholder="enter user name"><br><br>
+        <label for="password">*password:-</label>
+        <input type="password" id="password" name="an" placeholder="enter password"><br><br>
+        <label for="repeatpassword">*repeat password:-</label>
+        <input type="alphanumeric" id="rpassword" name="an" placeholder="enter conform password"><br><br>
+        <label for="dob" id="dob1">*Date of Birth:-</label>
+        <input type ="date" id="dob" name="dob"><br><br>
+        <label for="addr1" id="addr">Address</label>
+        <textarea id="addr1" name="addr1" rows="4" cols="30"></textarea><br><br>
+        <label for="eq">*Education qualification:-</label>
+        <select name="education" id="qualify">
+            <option value="10th">10th</option>
+            <option value="Inter">Inter</option>
+            <option value="Degree">Degree</option>
+            <option value="Btech">Btech</option>
+            <option value="Mtech">Mtech</option>
+        </select><br><br>
+        <label for="hobbie">*Hobbies:-</label>
+        <input type="alpha" id="hobbie" name="hobbie" placeholder="enter Hobbies"><br><br>
+        <label for="certificate">*certifications:-</label>
+        <input type="alpha" id="certificate" name="certificates" placeholder="enter certifications"><br><br>
+        <input type="button" onclick="Submit()" value="Submit" style="background-color: rgb(140, 248, 140);"><br>
+    </form>  
+
+</body>
+</html>
